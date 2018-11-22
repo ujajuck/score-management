@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="우리">
+</Property><Property Name="솔루션 파일" Value="D:\바탕화면\잡동사니\우리\우리.sln">
+</Property><Property Name="사용자 옵션 파일" Value="D:\바탕화면\잡동사니\우리\우리.suo">
+</Property><Property Name="Date" Value="2018년 11월 22일 목요일">
+</Property><Property Name="Time" Value="오후 23:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="우리.sln" Description="파일을 D:\바탕화면\잡동사니\우리\우리.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="우리.suo" Description="파일을 D:\바탕화면\잡동사니\우리\우리.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="우리" Source="우리\우리.vcproj" Description="Converting project file 'D:\바탕화면\잡동사니\우리\우리\우리.vcproj'.">
+</Event><Event ErrorLevel="1" Project="우리" Source="우리\우리.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="우리" Source="우리\우리.vcproj" Description="Done converting to new project file 'D:\바탕화면\잡동사니\우리\우리\우리.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="우리" Source="우리\우리.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="우리.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="우리.sln" Description="Converted">
+</Event></UpgradeLog>
